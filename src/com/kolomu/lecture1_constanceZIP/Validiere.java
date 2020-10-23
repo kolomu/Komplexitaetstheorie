@@ -1,4 +1,4 @@
-package com.kolomu.lecture1;
+package com.kolomu.lecture1_constanceZIP;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;

@@ -1,4 +1,4 @@
-package com.kolomu.lecture2;
+package com.kolomu.lecture2_RegEx_IP_RegexPhone;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
